@@ -64,6 +64,10 @@ This project is a custom Nuke plugin that connects directly to the [ActionVFX](h
 
 
 
+https://github.com/user-attachments/assets/86d0c208-fc35-4cdf-84de-37126a40b194
+
+
+
 - Free Clips
 ![loading (1)](https://github.com/user-attachments/assets/0b2090ae-6c8f-48f1-acd3-735b3fa24c53)
 
