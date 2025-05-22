@@ -1,7 +1,10 @@
 # CodeSample
 
-# ActionVFX-Nuke-Plugin
-The plugin connect Nuke to ActionVFX API
+## 🔒 Partial Code Disclosure Notice
+
+This repository contains a partial version of the original **ActionVFX Plugin for Nuke**. Due to internal dependencies and unreleased features, the full codebase cannot be made public until the official launch.
+Thank you for your understanding.
+
 
 # 🎬 ActionVFX Plugin for Nuke (In Development)
 
