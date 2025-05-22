@@ -76,6 +76,6 @@ This project is a custom Nuke plugin that connects directly to the [ActionVFX](h
 
 **Dante Rueda**  
 FX Artist & Pipeline Tools Developer  
-March 2025
+May 2025
 
 ---
