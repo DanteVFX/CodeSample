@@ -15,8 +15,8 @@ from cryptography.fernet import Fernet
 
 
 # Constants
-API_URL = "https://backend.actionvfx.com/api/v1/users/sign_in"
-USER_INFO_URL = "https://backend.actionvfx.com/api/v1/users/me"
+API_URL = "sign in url"
+USER_INFO_URL = "user_url"
 
 # Constants for generating the key and saving the session
 
